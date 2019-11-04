@@ -18,4 +18,7 @@ I make mods for the hit VR rhythm game Beat Saber.
 - More to come
 
 ### Other
-- [My GitHub Pages site](https://github.com/artemiswkearney/artemiswkearney.github.io)
+- My [Discord bot](https://github.com/artemiswkearney/artibot)
+	- A Discord bot for household task automation (e.g. grocery list management)
+	- Modular design to make adding new features quick and easy
+	- Includes a mini-library called Reactor that handles all the work of building UI based on message reactions
