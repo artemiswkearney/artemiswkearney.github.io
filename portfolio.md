@@ -2,7 +2,7 @@
 
 ### Beat Saber modding
 I make mods for the hit VR rhythm game Beat Saber.
-- [HitScoreVisualizer](https://github.com/artemiswkearney/HitScoreVisualizer)
+- [HitScoreVisualizer](/hitscorevisualizer.html)
 	- Enhances the score popups that appear when a note is hit, to contain information on accuracy and how the game scored the hit.
 	- Supports custom format specifiers in a configuration file, along with many other customizable features.
 	- Used by most high-level Beat Saber players.
