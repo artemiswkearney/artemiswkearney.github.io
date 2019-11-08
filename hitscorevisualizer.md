@@ -1,4 +1,4 @@
-##HitScoreVisualizer    
+## HitScoreVisualizer    
 [*GitHub*](https://github.com/artemiswkearney/HitScoreVisualizer)
 
 A mod for Beat Saber that adds more detailed information to the score popups that appear when the player hits a note. HitScoreVisualizer is used by many top-level Beat Saber players to get real-time feedback on their play and how they can improve, and has become so popular that further development has been commissioned by the userbase.
