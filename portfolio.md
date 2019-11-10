@@ -6,10 +6,10 @@ I make mods for the hit VR rhythm game Beat Saber.
 	- Enhances the score popups that appear when a note is hit, to contain information on accuracy and how the game scored the hit.
 	- Supports custom format specifiers in a configuration file, along with many other customizable features.
 	- Used by most high-level Beat Saber players.
-- [CustomMenuText](https://github.com/artemiswkearney/CustomMenuText)
+- [CustomMenuText](/custommenutext.html)
 	- Changes the logo/title in the game's main menu to user-provided text, randomly chosen from the configuration file.
 	- Also supports loading arbitrary fonts into the game to display the text using.
-- [CustomJSONData](https://github.com/artemiswkearney/CustomJSONData)
+- [CustomJSONData](/customjsondata.html)
 	- Allows beatmap creators to embed arbitrary data in beatmaps, and allows plugin developers to access that data with a convenient interface. Creates limitless possibilities for extending the game.
 	- Uses C#'s `dynamic` feature to provide native-feeling syntax for accessing data loaded from JSON files.
 - [CustomEvents](https://github.com/artemiswkearney/SimpleCustomEvents)
