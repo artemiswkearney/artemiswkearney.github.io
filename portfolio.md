@@ -12,7 +12,7 @@ I make mods for the hit VR rhythm game Beat Saber.
 - [CustomJSONData](/customjsondata.html)
 	- Allows beatmap creators to embed arbitrary data in beatmaps, and allows plugin developers to access that data with a convenient interface. Creates limitless possibilities for extending the game.
 	- Uses C#'s `dynamic` feature to provide native-feeling syntax for accessing data loaded from JSON files.
-- [CustomEvents](https://github.com/artemiswkearney/SimpleCustomEvents)
+- [CustomEvents](/customevents.html)
 	- Implementing a specification from CustomJSONData, allows mappers to trigger arbitrary custom events handled by plugins. 
 	- Uses an approach inspired by Beat Saber's own algorithms to broadcast events to other plugins in real-time as the player plays supported songs.
 - More to come
