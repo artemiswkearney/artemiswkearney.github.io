@@ -1,5 +1,28 @@
 ## Portfolio
 
+## Freelance work
+Currently ✅ accepting new contracts. Check my [GitHub profile](https://github.com/artemiswkearney) for my email address.  
+My skills include:
+- Web
+	- Modern JS / Typescript
+		- Advanced Typescript features (such as mapped types and conditional types)
+	- React (including React Native)
+	- Meteor
+- Game Dev / Modding
+	- Unity
+	- C#
+	- Decompilation / Reverse Engineering
+- Other
+	- Unit testing
+	- A knack for UX design
+	- Abstraction/library/domain-specific language creation
+	- Functional programming (especially in Racket)
+
+Past freelance projects:
+- [YouTube Playlist Randomizer](https://artemiswkearney.github.io/youtube-playlist-randomizer/)
+	- YouTube's built-in shuffle feature only shuffles the first 200 videos of long playlists.
+	- This site shuffles any number of videos, and can shuffle together multiple playlists.
+
 ### Beat Saber modding
 I make mods for the hit VR rhythm game Beat Saber.
 - [HitScoreVisualizer](/hitscorevisualizer.html)
